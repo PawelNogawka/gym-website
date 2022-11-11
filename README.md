@@ -1,5 +1,7 @@
 # gym-website
 
+Github pages link: https://pawelnogawka.github.io/gym-website/
+
 When I created this website, I made components such as:
 - Photo gallery with filters
 - Slider in css
